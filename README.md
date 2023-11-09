@@ -1,3 +1,3 @@
-# Tugas-Diagram
+<span> Tugas-Diagram </span>
 <h1> Nama : M Salman Septianto <br>
-ALTERRA BATCH 17</h1>
+Kelas : FE ALTERRA BATCH 17</h1>
